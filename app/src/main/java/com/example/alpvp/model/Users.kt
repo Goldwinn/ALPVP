@@ -6,6 +6,5 @@ data class Users (
     val email: String = "",
     val password: String = "",
     val profile_image: String = "",
-    val library_recipe_id: Int = 0,
-    //coba
+    val library_recipe_id: Int = 0
 )
